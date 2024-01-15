@@ -2,52 +2,22 @@
 
 > 欢迎提交新资料和新漏洞，或者对已有内容进行补充
 
-- 汽车安全资料：https://www.wolai.com/chao96/49RqQyaeWF1MghvSgx4cr3
-- CVE安全漏洞：https://www.wolai.com/chao96/r1Aj9xqie8omxXYJSVLzuN
-
-| 漏洞名称                                                   | 漏洞编号                                                                               | 厂商                                               | 产品                                                   | 标签     | CWE            | 风险等级 | PoC | 漏洞分析 |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------- | ------ | -------------- | ---- | --- | ---- |
-| [\_](https://www.wolai.com/oSaECbN5MrAp2AJ8VwB5JS "_") | [CVE-2021-22822](https://nvd.nist.gov/vuln/detail/CVE-2021-22822 "CVE-2021-22822") | schneider-electric                               | evlink\_city\_evc1s22p4\_firmware                    | 充电基础设施 | CWE-79         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/qjhFohf9QApVLbh149LVTU "_") | [CVE-2022-22808](https://nvd.nist.gov/vuln/detail/CVE-2022-22808 "CVE-2022-22808") | schneider-electric                               | hmibscea53d1edb\_firmware                            | 充电基础设施 | CWE-352        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/4Ko7VV5vxCd21Xqin7GPB8 "_") | [CVE-2022-3093](https://nvd.nist.gov/vuln/detail/CVE-2022-3093 "CVE-2022-3093")    | tesla                                            | model\_3\_firmware                                   | 信息娱乐系统 | CWE-367        | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/uDkyuVgNdKYyZDwzTQtD1B "_") | [CVE-2022-38716](https://nvd.nist.gov/vuln/detail/CVE-2022-38716 "CVE-2022-38716") | stylemixthemes                                   | motors *-* car\_dealer,\_ classifieds *&* listing    | Web系统  | CWE-352        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/8mVFdVBJYj9SRNArBU1CG "_")  | [CVE-2021-24388](https://nvd.nist.gov/vuln/detail/CVE-2021-24388 "CVE-2021-24388") | e4j                                              | vikrentcar\_car\_rental\_management\_system          | Web系统  | CWE-352,CWE-79 | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/y6corzg9dawFKdue7Dsdf "_")  | [CVE-2022-44734](https://nvd.nist.gov/vuln/detail/CVE-2022-44734 "CVE-2022-44734") | bestwebsoft                                      | car\_rental                                          | Web系统  | CWE-79         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/caHJ5ScxpLSgEXchmbnvPW "_") | [CVE-2023-0913](https://nvd.nist.gov/vuln/detail/CVE-2023-0913 "CVE-2023-0913")    | auto\_dealer\_management\_system\_project        | auto\_dealer\_management\_system                     | Web系统  | CWE-89         | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/tBAVCsL6QbhYraBRfBp7sA "_") | [CVE-2022-42430](https://nvd.nist.gov/vuln/detail/CVE-2022-42430 "CVE-2022-42430") | tesla                                            | model\_3\_firmware                                   | WiFi   | CWE-416        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/9Y2RmXvYeFXyjFZmQMAsWs "_") | [CVE-2022-38766](https://nvd.nist.gov/vuln/detail/CVE-2022-38766 "CVE-2022-38766") | renault                                          | zoe\_e-tech\_firmware                                | 无钥匙系统  | CWE-294        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/8WHXsXVq7qs1tGWGmMGdEf "_") | [CVE-2022-22807](https://nvd.nist.gov/vuln/detail/CVE-2022-22807 "CVE-2022-22807") | schneider-electric                               | hmibscea53d1edb\_firmware                            | 充电基础设施 | CWE-1021       | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/2C4rr4q989WBENnjfxsvsi "_") | [CVE-2022-48363](https://nvd.nist.gov/vuln/detail/CVE-2022-48363 "CVE-2022-48363") | linuxfoundation                                  | automotive\_grade\_linux                             | 信息娱乐系统 | CWE-476        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/ftrdKK3ZrPm5N2rgsegs7y "_") | [CVE-2023-2096](https://nvd.nist.gov/vuln/detail/CVE-2023-2096 "CVE-2023-2096")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/bPuA96b4V7fcTe2jvavJBf "_") | [CVE-2023-23590](https://nvd.nist.gov/vuln/detail/CVE-2023-23590 "CVE-2023-23590") | mercedes-benz                                    | xentry\_retail\_data\_storage\_firmware              | Web系统  | NVD-CWE-noinfo | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/uX9Qk887SP67BLwBivLJ7d "_") | [CVE-2023-2099](https://nvd.nist.gov/vuln/detail/CVE-2023-2099 "CVE-2023-2099")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-79         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/jkrqjZKdAYLYac9bEP91FB "_") | [CVE-2022-3879](https://nvd.nist.gov/vuln/detail/CVE-2022-3879 "CVE-2022-3879")    | car\_dealer\_project                             | car\_dealer                                          | Web系统  | CWE-863        | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/sDDty5VqaCqLRNXAarfJka "_") | [CVE-2023-2098](https://nvd.nist.gov/vuln/detail/CVE-2023-2098 "CVE-2023-2098")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-79         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/nrZ8VSdNtV7Uy1tZr8AQiv "_") | [CVE-2022-48363](https://nvd.nist.gov/vuln/detail/CVE-2022-48363 "CVE-2022-48363") | linuxfoundation                                  | automotive\_grade\_linux                             | 信息娱乐系统 | CWE-476        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/ac4VR4mwvj2JNpQCgMDyto "_") | [CVE-2023-2095](https://nvd.nist.gov/vuln/detail/CVE-2023-2095 "CVE-2023-2095")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/8TC3Tv1KDRn1kuRqgSjp83 "_") | [CVE-2023-23998](https://nvd.nist.gov/vuln/detail/CVE-2023-23998 "CVE-2023-23998") | e4jconnect                                       | vikrentcar                                           | Web系统  | CWE-79         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/2zEJyyZHjA53nBA369Hd7u "_") | [CVE-2023-23932](https://nvd.nist.gov/vuln/detail/CVE-2023-23932 "CVE-2023-23932") | objectcomputing                                  | opendds                                              | DDS    | NVD-CWE-noinfo | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/3TztADF76riAvQ9ZGfPget "_") | [CVE-2023-28885](https://nvd.nist.gov/vuln/detail/CVE-2023-28885 "CVE-2023-28885") | gm                                               | mylink\_infotainment\_system                         | 信息娱乐系统 | CWE-787        | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/gy3d6NDZwQaMw5rEwkuYoJ "_") | [CVE-2023-2100](https://nvd.nist.gov/vuln/detail/CVE-2023-2100 "CVE-2023-2100")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-79         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/2p5tKNDYVzGYGRbhSbTeYA "_") | [CVE-2023-2094](https://nvd.nist.gov/vuln/detail/CVE-2023-2094 "CVE-2023-2094")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/a5S5t11exEhwTXGnyJA5Nt "_") | [CVE-2023-2092](https://nvd.nist.gov/vuln/detail/CVE-2023-2092 "CVE-2023-2092")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/rfhgWL8ZSMNsGEMbGvPzqF "_") | [CVE-2023-26245](https://nvd.nist.gov/vuln/detail/CVE-2023-26245 "CVE-2023-26245") | hyundai                                          | gen5w\_l\_in-vehicle\_infotainment\_system\_firmware | 信息娱乐系统 | CWE-269        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/hJDfqxxV4ZgjRLnt8tU2H5 "_") | [CVE-2023-26243](https://nvd.nist.gov/vuln/detail/CVE-2023-26243 "CVE-2023-26243") | hyundai                                          | gen5w\_l\_in-vehicle\_infotainment\_system\_firmware | 信息娱乐系统 | CWE-668        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/d12YDA18B3WbqQDUJkTKHw "_") | [CVE-2023-29389](https://nvd.nist.gov/vuln/detail/CVE-2023-29389 "CVE-2023-29389") | toyota                                           | rav4\_firmware                                       | CAN    | CWE-74         | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/vSijgPixUshZCUjFa9cU2h "_") | [CVE-2023-26246](https://nvd.nist.gov/vuln/detail/CVE-2023-26246 "CVE-2023-26246") | hyundai                                          | gen5w\_l\_in-vehicle\_infotainment\_system\_firmware | 信息娱乐系统 | CWE-269        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/s6rqpja9U6PK4vrVKtqTSb "_") | [CVE-2023-26244](https://nvd.nist.gov/vuln/detail/CVE-2023-26244 "CVE-2023-26244") | hyundai                                          | gen5w\_l\_in-vehicle\_infotainment\_system\_firmware | 信息娱乐系统 | CWE-269        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/iUn5vqVPExxqGgdf65fr2F "_") | [CVE-2023-2773](https://nvd.nist.gov/vuln/detail/CVE-2023-2773 "CVE-2023-2773")    | bus\_dispatch\_and\_information\_system\_project | bus\_dispatch\_and\_information\_system              | Web系统  | CWE-89         | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/kDXp6yEtuNnh9K9XuAkZTB "_") | [CVE-2023-2775](https://nvd.nist.gov/vuln/detail/CVE-2023-2775 "CVE-2023-2775")    | bus\_dispatch\_and\_information\_system\_project | bus\_dispatch\_and\_information\_system              | Web系统  | CWE-89         | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/df5dkA6aifdfTtwSG2WFdz "_") | [CVE-2023-2093](https://nvd.nist.gov/vuln/detail/CVE-2023-2093 "CVE-2023-2093")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/5xkRAD7S9dEbCHmb9tYM2d "_") | [CVE-2023-33281](https://nvd.nist.gov/vuln/detail/CVE-2023-33281 "CVE-2023-33281") | nissan                                           | sylphy\_classic\_2021\_firmware                      | 无钥匙系统  | CWE-294        | 中危   |     | 未完成  |
-| [\_](https://www.wolai.com/wbNnx7J3UhupwEpC1ZiTYh "_") | [CVE-2023-32219](https://nvd.nist.gov/vuln/detail/CVE-2023-32219 "CVE-2023-32219") | mazda                                            | mazda\_firmware                                      | 无钥匙系统  | NVD-CWE-noinfo | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/jNjJBK8DqxH8mcwBrpnsDu "_") | [CVE-2023-3028](https://nvd.nist.gov/vuln/detail/CVE-2023-3028 "CVE-2023-3028")    | mqtt                                             | mqtt                                                 | MQTT   | CWE-287        | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/pyBnxQq47A4BHyHbVDGLEn "_") | [CVE-2023-30399](https://nvd.nist.gov/vuln/detail/CVE-2023-30399 "CVE-2023-30399") | garo                                             | wallbox\_glb\_firmware                               | 充电基础设施 | CWE-732        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/6Y2cheLeEooh8tjoj9u2YF "_") | [CVE-2023-2951](https://nvd.nist.gov/vuln/detail/CVE-2023-2951 "CVE-2023-2951")    | bus\_dispatch\_and\_information\_system\_project | bus\_dispatch\_and\_information\_system              | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/uzXp87DMSTS1Q1JRWmwRVG "_") | [CVE-2023-2774](https://nvd.nist.gov/vuln/detail/CVE-2023-2774 "CVE-2023-2774")    | bus\_dispatch\_and\_information\_system\_project | bus\_dispatch\_and\_information\_system              | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/72jEdAbgfdixruGgoMeih6 "_") | [CVE-2023-26257](https://nvd.nist.gov/vuln/detail/CVE-2023-26257 "CVE-2023-26257") | covesa                                           | dlt-daemon                                           | 诊断系统   | CWE-401        | 高危   |     | 未完成  |
-| [\_](https://www.wolai.com/poCv8D3mESvwdUrd9T4566 "_") | [CVE-2023-2097](https://nvd.nist.gov/vuln/detail/CVE-2023-2097 "CVE-2023-2097")    | vehicle\_service\_management\_system\_project    | vehicle\_service\_management\_system                 | Web系统  | CWE-89         | 严重   |     | 未完成  |
-| [\_](https://www.wolai.com/6XjBBQBz1LWtM7Gtix8XdH "_") | [CVE-2023-34733](https://nvd.nist.gov/vuln/detail/CVE-2023-34733 "CVE-2023-34733") | vw                                               | discover\_media\_infotainment\_system                | 信息娱乐系统 | CWE-754        | 中危   |     | 未完成  |
+- 安全论文：https://www.wolai.com/kND5Gwh1eoYuXarx74d7Cp
+- 汽车安全
+  - 安全资料：https://www.wolai.com/49RqQyaeWF1MghvSgx4cr3
+  - 漏洞分析：https://www.wolai.com/r1Aj9xqie8omxXYJSVLzuN
+- Android安全
+  - 安全资料：https://www.wolai.com/gKjsRiUKkfVVCMStZiNFHD
+  - 漏洞分析：https://www.wolai.com/2RX7wJHge2PAGh3CLWp9aN
+- Android App安全
+  - 安全资料：https://www.wolai.com/iTxe6dQfoGtYVTwwVTnDLk
+  - 漏洞分析：https://www.wolai.com/82V2thAfHjKPqp724b9f2d
+- Linux内核安全
+  - 安全资料：https://www.wolai.com/tBBKfvPRvh7VS5ARxyYAB7
+  - 漏洞分析：https://www.wolai.com/quQjEwpbU1dSxTYmSPMbgP
+- RTOS安全
+  - 安全资料：https://www.wolai.com/uKwbasz8djAVoc2sFDjWoy
+  - 漏洞分析：https://www.wolai.com/2xgAE9vu7p9fd2nVSUQE9k
 
 ## 关注我们
 
